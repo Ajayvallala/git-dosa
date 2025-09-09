@@ -18,3 +18,4 @@ Dosa Shop
 * Dosa Batter
 * Panner
 * Onion Tomoto
+* Capsicum
