@@ -19,3 +19,4 @@ Dosa Shop
 * Panner
 * Onion Tomoto
 * Capsicum
+* Ghee
