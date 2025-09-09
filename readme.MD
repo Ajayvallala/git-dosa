@@ -13,3 +13,11 @@ Dosa Shop
 * Egg Oil
 * Onions
 * Carret
+
+# Panner Dosa
+* Dosa Batter
+* Panner
+* Onion Tomoto
+* Ghee
+
+
