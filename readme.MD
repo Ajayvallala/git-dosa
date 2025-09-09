@@ -20,3 +20,4 @@ Dosa Shop
 * Onion Tomoto
 * Capsicum
 * Ghee
+* Chicken masala
