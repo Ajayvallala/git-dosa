@@ -13,3 +13,6 @@ Dosa Shop
 * Egg Oil
 * Onions
 * Carret
+
+# Panner Dosa
+* Dosa Batter
