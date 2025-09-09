@@ -21,3 +21,4 @@ Dosa Shop
 * Capsicum
 * Ghee
 * Chicken masala
+* Garam Masala
